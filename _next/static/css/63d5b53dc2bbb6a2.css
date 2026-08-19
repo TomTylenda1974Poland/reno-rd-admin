@@ -1,0 +1,1 @@
+*,:after,:before{box-sizing:border-box}:root{text-size-adjust:100%}body,html{max-width:100%;overflow-x:hidden}body{padding-left:env(safe-area-inset-left);padding-right:env(safe-area-inset-right)}main{padding-bottom:calc(24px + env(safe-area-inset-bottom))}canvas,img,svg,video{max-width:100%;height:auto}a,h1,h2,h3,p{overflow-wrap:break-word;word-break:break-word}
